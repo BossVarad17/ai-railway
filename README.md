@@ -3,6 +3,12 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg) ![Status](https://img.shields.io/badge/status-active-success.svg) ![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![React](https://img.shields.io/badge/react-19-cyan)
 
+---
+> 🧑‍💻 **My Role — Varad Vekariya**
+> I developed the multi-model computer vision pipeline — integrating U-Net (deblurring), YOLOv8 (defect detection), and ResNet18 (classification) — and built the FastAPI REST + WebSocket streaming infrastructure for low-latency monitoring. I mentored junior team members on the CV pipeline design and model integration.
+> [GitHub](https://github.com/BossVarad17) · [LinkedIn](https://www.linkedin.com/in/varad-vekariya/)
+---
+
 ## 📖 Table of Contents
 1. [Project Overview](#project-overview)
 2. [Key Features](#key-features)
